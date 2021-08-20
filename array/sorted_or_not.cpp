@@ -7,7 +7,7 @@ bool sorted(int arr[],int n)
 if(n==1)
 return true;
 bool flag=true;
-for (int i =1; i < n; i++) {
+for (int i =1; i < n; i++) {p
   /* code */
 if(arr[i-1]<=arr[i])
 {
