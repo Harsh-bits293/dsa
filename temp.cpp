@@ -19,6 +19,6 @@ int main()
   //your code
 
 
-  return 0;
 }//test cases
+return 0;
 }
